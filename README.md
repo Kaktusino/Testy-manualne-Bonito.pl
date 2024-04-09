@@ -11,6 +11,8 @@ I am young student with many technical skills. I am very motivated to become QA
 * Reporting bugs
 * SQL
 * SCRUM
+* planowanie testów
+* tworzenie raportów
 ## CERTIFICATES
 Szkolenie Indywidualne tester manualny 05.04.2022
 ## COURSES
