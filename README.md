@@ -29,10 +29,10 @@ Szkolenie Indywidualne tester manualny 05.04.2022
 * [Test cases](https://drive.google.com/file/d/16XbjWoMTx_wwylDAf5lr7f81sH0ZMIu4/view?usp=drive_link)
 ## MY BUGS
 ## MY BUGS FOR 
-* [Znaki w polach numerycznych]([link do buga z google drive](https://drive.google.com/file/d/1SnG4IKJ0BjimJzju4qZxslEVUg6j7DS-/view?usp=drive_link)
+* [Znaki w polach numerycznych](https://drive.google.com/file/d/1SnG4IKJ0BjimJzju4qZxslEVUg6j7DS-/view?usp=drive_link)
 * [Nieintuicyjny sposób dodania nowej listy w schowku](https://drive.google.com/file/d/1SXPSDtDX6eMIlfDxVXlabJh3TZCkEWnE/view?usp=drive_link)
 * [Błędne wyświetlanie danych użytkownika](https://drive.google.com/file/d/15okH3YhhQdH8bpw6r4FCVEsDN7robMnz/view?usp=drive_link)
-* [Możliwość zdublowania adresów dostawy]([link do buga z google drive)](https://drive.google.com/file/d/1_N31UhnlLacuHVY21dNaTH1SdCWBQuSS/view?usp=drive_link)
+* [Możliwość zdublowania adresów dostawy](https://drive.google.com/file/d/1_N31UhnlLacuHVY21dNaTH1SdCWBQuSS/view?usp=drive_link)
 * [Brak możliwości dodania adresu dostawy bez podania imienia i nazwiska](https://drive.google.com/file/d/1dvgjWF3zNJvvikefpKWGDg8EFVQ-jLuJ/view?usp=drive_link)
 * [Brak zmiany ilości sztuk produktu w koszyku po ponownym dodaniu produktu](https://drive.google.com/file/d/1YYPd-XaNTltpc7e_JjUC0F7SSr1jipZ6/view?usp=drive_link)
 * [Brak wyników filtrowania przy wpisaniu imienia i nazwiska autora w odwrotnej kolejności](https://drive.google.com/file/d/1qyRfPBmtp7ypn1ZxaiE4vzPcAXoj77Nj/view?usp=drive_link)
