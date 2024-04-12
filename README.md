@@ -1,7 +1,6 @@
 # Testy-manualne-Bonito.pl
-## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA  
-Recently I have started to interest of software testing. My goal is to develop test and technical skills. On this site I would like to share my all gained experience from my personal studies & researches.
+## ABOUT ME 
+Recently I have started to interest of software testing. My goal is to develop test and technical skills. I am very motivated to become QA. On this site I would like to share my all gained experience from my personal studies & researches.
 ## TOOLS
 * Jira
 * TestLink
