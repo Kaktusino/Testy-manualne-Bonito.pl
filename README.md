@@ -14,8 +14,8 @@ Recently I have started to interest of software testing. My goal is to develop t
 * planowanie testów
 * tworzenie raportów
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
-Kurs Scrum od podstaw - efektywne zarządzanie projektami 18.04.2024
+* Szkolenie Indywidualne tester manualny 05.04.2022
+* Kurs Scrum od podstaw - efektywne zarządzanie projektami 18.04.2024
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Kurs Scrum od podstaw - efektywne zarządzanie projektami 
