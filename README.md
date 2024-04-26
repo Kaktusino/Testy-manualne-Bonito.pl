@@ -14,7 +14,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 * planowanie testów
 * tworzenie raportów
 ## CERTIFICATES
- Szkolenie Indywidualne tester manualny 05.04.2022
+ Szkolenie Indywidualne tester manualny 05.04.2024
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## RECOMENDED BLOGS
